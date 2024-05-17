@@ -1,0 +1,30 @@
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.exe
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.deps.json
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.runtimeconfig.json
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.dll
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.pdb
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.csproj.AssemblyReference.cache
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.AssemblyInfoInputs.cache
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.AssemblyInfo.cs
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.dll
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\refint\lab3_2.dll
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.pdb
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.genruntimeconfig.cache
+D:\Program Files\Visual Studio Progects\c#\lab3_2\lab3_2\obj\Debug\net6.0\ref\lab3_2.dll
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.exe
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.deps.json
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.runtimeconfig.json
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.dll
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\bin\Debug\net6.0\lab3_2.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.csproj.AssemblyReference.cache
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.AssemblyInfoInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.AssemblyInfo.cs
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.dll
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\refint\lab3_2.dll
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.pdb
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\lab3_2.genruntimeconfig.cache
+C:\Users\pasha\OneDrive\Рабочий стол\BSUIR\1семестр\ОКПрог\Лаба3\lab3_2\lab3_2\obj\Debug\net6.0\ref\lab3_2.dll
